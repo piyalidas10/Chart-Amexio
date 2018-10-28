@@ -9,7 +9,7 @@ export class EmployeeService {
 
   constructor(private http:HttpClient) { }
   
-  url :string = "https://raw.githubusercontent.com/piyalidas10/Chart-Amexio/master/package.json";
+  url :string = "https://raw.githubusercontent.com/piyalidas10/Chart-Amexio/master/src/app/employee.json";
 
   allEmployees(): Observable<any>{
     return this.http.get(this.url);
