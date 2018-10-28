@@ -1,0 +1,24 @@
+{  
+    "employees":[
+      {  
+          "preferredFullName":"Tom Hanks",
+          "salary":14000000
+       },
+       {  
+          "preferredFullName":"Ketan Gote",
+          "salary":22000000
+       },
+       {  
+          "preferredFullName":"Santosh Gawade",
+          "salary":22000000
+       },
+       {  
+          "preferredFullName":"Dattaram Gawas",
+          "salary":1000000
+       },
+       {  
+          "preferredFullName":"Pratik Kelwalkar",
+          "salary":1500000
+       }
+    ]    
+ }
